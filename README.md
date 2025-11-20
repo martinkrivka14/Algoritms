@@ -1,1 +1,4 @@
-#Algoritms projects
+# Name
+Martin Křivka
+# Project name
+Algorimts projects
