@@ -1,0 +1,14 @@
+C:\Users\ADMIN\source\repos\Deník_projekt\Deník_projekt\bin\Debug\net9.0\Deník_projekt.exe
+C:\Users\ADMIN\source\repos\Deník_projekt\Deník_projekt\bin\Debug\net9.0\Deník_projekt.deps.json
+C:\Users\ADMIN\source\repos\Deník_projekt\Deník_projekt\bin\Debug\net9.0\Deník_projekt.runtimeconfig.json
+C:\Users\ADMIN\source\repos\Deník_projekt\Deník_projekt\bin\Debug\net9.0\Deník_projekt.dll
+C:\Users\ADMIN\source\repos\Deník_projekt\Deník_projekt\bin\Debug\net9.0\Deník_projekt.pdb
+C:\Users\ADMIN\source\repos\Deník_projekt\Deník_projekt\obj\Debug\net9.0\Deník_projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\source\repos\Deník_projekt\Deník_projekt\obj\Debug\net9.0\Deník_projekt.AssemblyInfoInputs.cache
+C:\Users\ADMIN\source\repos\Deník_projekt\Deník_projekt\obj\Debug\net9.0\Deník_projekt.AssemblyInfo.cs
+C:\Users\ADMIN\source\repos\Deník_projekt\Deník_projekt\obj\Debug\net9.0\Deník_projekt.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Deník_projekt\Deník_projekt\obj\Debug\net9.0\Deník_projekt.dll
+C:\Users\ADMIN\source\repos\Deník_projekt\Deník_projekt\obj\Debug\net9.0\refint\Deník_projekt.dll
+C:\Users\ADMIN\source\repos\Deník_projekt\Deník_projekt\obj\Debug\net9.0\Deník_projekt.pdb
+C:\Users\ADMIN\source\repos\Deník_projekt\Deník_projekt\obj\Debug\net9.0\Deník_projekt.genruntimeconfig.cache
+C:\Users\ADMIN\source\repos\Deník_projekt\Deník_projekt\obj\Debug\net9.0\ref\Deník_projekt.dll
