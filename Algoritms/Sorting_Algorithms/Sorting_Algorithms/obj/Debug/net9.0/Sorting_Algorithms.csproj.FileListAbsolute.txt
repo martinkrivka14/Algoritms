@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Documents\Škola\Algoritmy_3\Algorithms\Algoritms\Sorting_Algorithms\Sorting_Algorithms\bin\Debug\net9.0\Sorting_Algorithms.exe
+C:\Users\ADMIN\Documents\Škola\Algoritmy_3\Algorithms\Algoritms\Sorting_Algorithms\Sorting_Algorithms\bin\Debug\net9.0\Sorting_Algorithms.deps.json
+C:\Users\ADMIN\Documents\Škola\Algoritmy_3\Algorithms\Algoritms\Sorting_Algorithms\Sorting_Algorithms\bin\Debug\net9.0\Sorting_Algorithms.runtimeconfig.json
+C:\Users\ADMIN\Documents\Škola\Algoritmy_3\Algorithms\Algoritms\Sorting_Algorithms\Sorting_Algorithms\bin\Debug\net9.0\Sorting_Algorithms.dll
+C:\Users\ADMIN\Documents\Škola\Algoritmy_3\Algorithms\Algoritms\Sorting_Algorithms\Sorting_Algorithms\bin\Debug\net9.0\Sorting_Algorithms.pdb
+C:\Users\ADMIN\Documents\Škola\Algoritmy_3\Algorithms\Algoritms\Sorting_Algorithms\Sorting_Algorithms\obj\Debug\net9.0\Sorting_Algorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Documents\Škola\Algoritmy_3\Algorithms\Algoritms\Sorting_Algorithms\Sorting_Algorithms\obj\Debug\net9.0\Sorting_Algorithms.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Documents\Škola\Algoritmy_3\Algorithms\Algoritms\Sorting_Algorithms\Sorting_Algorithms\obj\Debug\net9.0\Sorting_Algorithms.AssemblyInfo.cs
+C:\Users\ADMIN\Documents\Škola\Algoritmy_3\Algorithms\Algoritms\Sorting_Algorithms\Sorting_Algorithms\obj\Debug\net9.0\Sorting_Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Documents\Škola\Algoritmy_3\Algorithms\Algoritms\Sorting_Algorithms\Sorting_Algorithms\obj\Debug\net9.0\Sorting_Algorithms.sourcelink.json
+C:\Users\ADMIN\Documents\Škola\Algoritmy_3\Algorithms\Algoritms\Sorting_Algorithms\Sorting_Algorithms\obj\Debug\net9.0\Sorting_Algorithms.dll
+C:\Users\ADMIN\Documents\Škola\Algoritmy_3\Algorithms\Algoritms\Sorting_Algorithms\Sorting_Algorithms\obj\Debug\net9.0\refint\Sorting_Algorithms.dll
+C:\Users\ADMIN\Documents\Škola\Algoritmy_3\Algorithms\Algoritms\Sorting_Algorithms\Sorting_Algorithms\obj\Debug\net9.0\Sorting_Algorithms.pdb
+C:\Users\ADMIN\Documents\Škola\Algoritmy_3\Algorithms\Algoritms\Sorting_Algorithms\Sorting_Algorithms\obj\Debug\net9.0\Sorting_Algorithms.genruntimeconfig.cache
+C:\Users\ADMIN\Documents\Škola\Algoritmy_3\Algorithms\Algoritms\Sorting_Algorithms\Sorting_Algorithms\obj\Debug\net9.0\ref\Sorting_Algorithms.dll
