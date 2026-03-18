@@ -19,7 +19,9 @@ public class Lines {
     }
 
     public void eraseAllLines() {
-        this.lines.clear();
+        if(this.lines != null){
+            this.lines.clear();
+        }
     }
 
 
